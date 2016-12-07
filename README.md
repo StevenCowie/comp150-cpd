@@ -27,3 +27,15 @@ The biggest challenge I faced this week was presenting my proposed agile essay q
 
 ##Week 9 – November 7th
 My biggest challenges this week were trying to implement features into our game development project and the task we were given in tinkering audio. For the game development project I spent a long time trying to implement collisions with the map in the middle but I had no luck however my team mate managed to get some form of collisions working and it turned out better than the original idea, so to try and get better at coding I’m going to spend more time at home learning about coding to expand my knowledge and cater it to what I need to learn. With the tinkering audio module the biggest issue I faced was I was confused of what the actual task was and I ended up doing the wrong thing, however when Mike went over it, it all made sense. 
+
+##Week 10 – November 14th
+My biggest challenege yet again was tinkering audio as well as git branching. I am struggling to understand how audio works as it is very mathematic based and since I haven't done maths in over a year it has been a struggle. It relies heavily of your knowledge of waves and how to manipulate them. To fix this issue I'm going to go over old pyshics note and read over my notes I have on waves and what every part of the wave does. Git branching I found difficult because I've never used it before but to become better at it I'm going to complete the tutorials we got linked in class at home.
+
+##Week 11 – November 21st
+My biggest challenge this week was time managment as we have so many deadlines coming up, I am worried I won't be able to get everything done in time and up to a standard I am happy with. Another challenge which I need to go home and learn aboyut is the new programming language Ed introduced us to which is C++, since it's different from what we've learned I think I'll try to spend my Christmas holidays watching tutorials and reading up how it works and make some basic programs using it. I feel my progress on my agile essay hasn't been as much as I'd like to as I haven't written a proper academic essay in years, I think the only way to improve on this is just to keep writing them until I pick up the style.
+
+##Week 12 – November 28th
+We had the tinkering audio peer review this week which I wasn't happy with as I can't get a sound that I like to work as well as I haven't been making efficient use of version control on GitHub, this is something I need to improve on just by doing a little bit of my projects every night or every other night and upload what I've got and it'll also allow me to be able to ast my tutors for help. As for my progress for the term I feel like I've learnt a lot since the beginning of term but I feel as though I need to do a lot more work in my free time at home as I plan to master C++ next term.
+
+##Career Goals
+Once I graduate from university I plan on potentially making a few small 
