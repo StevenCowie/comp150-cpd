@@ -38,4 +38,4 @@ My biggest challenge this week was time managment as we have so many deadlines c
 We had the tinkering audio peer review this week which I wasn't happy with as I can't get a sound that I like to work as well as I haven't been making efficient use of version control on GitHub, this is something I need to improve on just by doing a little bit of my projects every night or every other night and upload what I've got and it'll also allow me to be able to ast my tutors for help. As for my progress for the term I feel like I've learnt a lot since the beginning of term but I feel as though I need to do a lot more work in my free time at home as I plan to master C++ next term.
 
 ##Career Goals
-Once I graduate from university I plan on potentially making a few small 
+Once I graduate from university I plan on potentially making a few small games in my free time while travelling the wolrd then later on joining up with a small indie games company and hopefully progressing to work on the programming side of AAA games. 
