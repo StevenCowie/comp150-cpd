@@ -51,10 +51,10 @@ Worksheet B was due in this week, this was my main challenge of the week as it w
 I began work on worksheet C which was due in next week. I had major issues with my Unreal and Visual Studio which gave me an error when trying to make a C++ project (manage to fix it a few days later), so I have done it in blueprints. It was easy enough getting most of it done, the hard part was getting it to fit together. A few class mates and I sat down which made it easier to do. I'm still watching relevant Unreal tutorials to help me with what I want to learn. I attended our supervised studio practice session with the BA's but half of the group didn't turn up and the other half left as the studio was too full this is preventing us from doing work on our game together.
 
 ##Week 5 - February 20th
-
+This week we had a lecture on computational creativity, this really stood out for me and I was amazed at what had been created. I went home and looked more into it, I was a bit disappointed that in the lecture we couldn't play around on the iPads and make our own games with the app they had created. What I struggled with the most this week is creating a save game point in Unreal, I left in on the computer and when I went back to it later in the week it was gone, I'm going to try and do it later on at home. Our team communication for our comp160 game isn't the best still so work has been slow.
 
 ##Week 6 - February 27th
-
+This week Mike taught us to set up our own servers in our comp160 group, but due to half the group not showing up and we got stuck we decided to join another group to help set their server up. I need to research more into this and try to get my own server set up and more familiar on how they work because this means I could attempt to set up my own online game which I would like to do at some point. We've got some good progress going on the comp160 game but it's too late for the trailer and presentation so we'll have to work really hard for the final submission.
 
 ##Week 7 - March 6th
 
