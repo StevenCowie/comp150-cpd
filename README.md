@@ -45,10 +45,10 @@ First week back and we had a worksheet due in for Ed, it was a Fallout hacking m
 This week Brian was teaching us to use Unreal and and taught us about using C++ in Unreal. I followed along with him but at the end of the lesson I am still struggling using C++ in Unreal so I will need to research that. That being said my knowledge and understanding of using blueprints is coming a lot better. We have made some progress on our Comp 160 game however team communication and attendance are still issues so I will message those who don't turn up.
 
 ##Week 3 - February 6th
-Worksheet B was due in this week, this was my main challenge of the week as it was to make a Mandlebrot set, it involved a lot of mathematics which I'm not the best with anymore. I got it to work but I didn't quite understand it all, although Brian went through some of it which helped. I'm going to have a quick read online about the Mandlebrot to see if that'll help. I started research for my Comp140 game and have come up with a basic idea which I will start concepting soon and an idea for the controller, this will help my Unreal progress as well.
+Worksheet B was due in this week, this was my main challenge of the week as it was to make a Mandlebrot set, it involved a lot of mathematics which I'm not the best with anymore. I got it to work but I didn't quite understand it all, although Brian went through some of it which helped. I'm going to have a quick read online about the Mandlebrot to see if that'll help. I started research for my Comp140 game and have come up with a basic idea which I will start concerting soon and an idea for the controller, this will help my Unreal progress as well.
 
 ##Week 4 - February 13th
-
+I began work on worksheet C which was due in next week. I had major issues with my Unreal and Visual Studio which gave me an error when trying to make a C++ project (manage to fix it a few days later), so I have done it in blueprints. It was easy enough getting most of it done, the hard part was getting it to fit together. A few class mates and I sat down which made it easier to do. I'm still watching relevant Unreal tutorials to help me with what I want to learn. I attended our supervised studio practice session with the BA's but half of the group didn't turn up and the other half left as the studio was too full this is preventing us from doing work on our game together.
 
 ##Week 5 - February 20th
 
