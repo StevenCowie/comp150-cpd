@@ -37,5 +37,14 @@ My biggest challenge this week was time management as we have so many deadlines 
 ##Week 12 – November 28th
 We had the tinkering audio peer review this week which I wasn't happy with as I can't get a sound that I like to work as well as I haven't been making efficient use of version control on GitHub, this is something I need to improve on just by doing a little bit of my projects every night or every other night and upload what I've got and it'll also allow me to be able to sat my tutors for help. As for my progress for the term I feel like I've learnt a lot since the beginning of term but I feel as though I need to do a lot more work in my free time at home as I plan to master C++ next term.
 
+## Term 2
+##Week 1 - January 23rd
+First week back and we had a worksheet due in for Ed, it was a Fallout hacking minigame. This was what I struggled with the most as we had to do it in C++, a new language I was just learning. To try and learn something to improve I am teaching myself C++ code at home and doing tutorials so I understand how to use it. We had our first product owner meeting and it went well although no progress has been made on the game as of yet and team communication is not the best. To change this I am trying my best to learn to use Unreal as it is a very vast engine with so many components.
+
+##Week 2 - January 30th
+This week Brian was teaching us to use Unreal and and taught us about using C++ in Unreal. I followed along with him but at the end of the lesson I am still struggling using C++ in Unreal so I will need to research that. That being said my knowledge and understanding of using blueprints is coming a lot better. We have made some progress on our Comp 160 game however team communication and attendance are still issues so I will message those who don't turn up.
+
+##Week 3 - February 6th
+
 ##Career Goals
 Once I graduate from university I plan on potentially making a few small games in my free time while travelling the world then later on joining up with a small indie games company and hopefully progressing to work on the programming side of AAA games. I'm working on progressing to get to these goals by learning at university which is teaching me how to code and good practices of game developers which gives me the knowledge I need to be able to develop games. Five key skills that I am struggling with are essay writing skills, my use of version control, my presenting skills, prioritizing tasks and lastly independent studying. The five smart actions can be found in my CPD essay which goes over them in detail.
