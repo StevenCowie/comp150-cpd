@@ -45,6 +45,18 @@ First week back and we had a worksheet due in for Ed, it was a Fallout hacking m
 This week Brian was teaching us to use Unreal and and taught us about using C++ in Unreal. I followed along with him but at the end of the lesson I am still struggling using C++ in Unreal so I will need to research that. That being said my knowledge and understanding of using blueprints is coming a lot better. We have made some progress on our Comp 160 game however team communication and attendance are still issues so I will message those who don't turn up.
 
 ##Week 3 - February 6th
+Worksheet B was due in this week, this was my main challenge of the week as it was to make a Mandlebrot set, it involved a lot of mathematics which I'm not the best with anymore. I got it to work but I didn't quite understand it all, although Brian went through some of it which helped. I'm going to have a quick read online about the Mandlebrot to see if that'll help. I started research for my Comp140 game and have come up with a basic idea which I will start concepting soon and an idea for the controller, this will help my Unreal progress as well.
+
+##Week 4 - February 13th
+
+
+##Week 5 - February 20th
+
+
+##Week 6 - February 27th
+
+
+##Week 7 - March 6th
 
 ##Career Goals
 Once I graduate from university I plan on potentially making a few small games in my free time while travelling the world then later on joining up with a small indie games company and hopefully progressing to work on the programming side of AAA games. I'm working on progressing to get to these goals by learning at university which is teaching me how to code and good practices of game developers which gives me the knowledge I need to be able to develop games. Five key skills that I am struggling with are essay writing skills, my use of version control, my presenting skills, prioritizing tasks and lastly independent studying. The five smart actions can be found in my CPD essay which goes over them in detail.
